@@ -2,6 +2,21 @@
   background-color:#b8b8b8;
 }
 
-.navbar {
+
+h1.display-4 {
+  font-size: 25px;
+}
+
+p.lead {
+  font-size: 65px;
+}
+
+div.jumbotron {
+  text-align: center;
   background-color: white;
+  font-family: 'Baloo Da 2', cursive;
+}
+
+a.nav-link {
+  margin-left: 175px;
 }
