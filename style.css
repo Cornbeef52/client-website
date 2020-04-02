@@ -36,7 +36,7 @@ img#rightmargin {
 }
 
 img:hover {
-  animation: imghover 1.5s both;
+  animation: imghover 1.5s forwards;
 }
 
 @keyframes imghover {
@@ -56,4 +56,13 @@ h3.first {
 h3.second {
   margin-left: 320px;
   font-size:25px;
+}
+
+p {
+  margin-left: 130px;
+  margin-right: 130px;
+}
+
+div.text-align {
+  text-align: center;
 }
